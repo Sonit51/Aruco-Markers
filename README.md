@@ -9,3 +9,4 @@ Detecting aruco markers
 6. Then we will create variables for corners and IDs and in for loop using polylines we can make lines around the frame.
 7. After this we will take the text input to show the id using putText().
 8. At last we will show the image using imshow().
+![image](https://user-images.githubusercontent.com/91333702/199022151-fe81fbc2-937b-4287-bd5b-e07256f63c15.png)
